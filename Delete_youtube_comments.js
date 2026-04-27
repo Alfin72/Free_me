@@ -13,7 +13,7 @@
  *    - Chrome/Firefox: Press Ctrl+Shift+J (Windows/Linux) or Cmd+Option+J (Mac)
  *    - Safari: Enable the Develop menu in Safari's Advanced preferences, then press Cmd+Option+C
  * 3. Copy and paste this entire script into the console and press Enter to run it.
- *
+ */
 
 
 let sleep = time => new Promise(res => setTimeout(res, time, "done sleeping"));
